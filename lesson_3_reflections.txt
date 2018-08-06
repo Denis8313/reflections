@@ -14,3 +14,9 @@ Clones - When I develop my own application with multiple developers
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefits is that we can access all the changes that have been made and work with the application locally
+
+How would you collaborate without using Git of GitHub? What would be easier, and what would be harder?
+
+Without git it would be much harder to develop an application, with git we can easily develop the test version
+of the application without fear of destroying a stable version of the application, also with Git Hub it is much 
+easier to develop application in witch is including more developers.
