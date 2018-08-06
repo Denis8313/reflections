@@ -10,3 +10,7 @@ Forks - I use forks when I want to link the application development with multipl
 do not want or can not change the source code
 
 Clones - When I develop my own application with multiple developers
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefits is that we can access all the changes that have been made and work with the application locally
