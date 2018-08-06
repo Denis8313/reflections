@@ -20,3 +20,7 @@ How would you collaborate without using Git of GitHub? What would be easier, and
 Without git it would be much harder to develop an application, with git we can easily develop the test version
 of the application without fear of destroying a stable version of the application, also with Git Hub it is much 
 easier to develop application in witch is including more developers.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A special branch would use when more people are involved in a file's change
