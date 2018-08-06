@@ -4,3 +4,9 @@ I would want create remote repository hen more developer working in one applicat
 Why might yout want to always pull changes manually rather than having Git automatically stay upt-to-date with your remote repository?
 
 I want to always pull changes manually becouse i don't want have to small commits and I want the application I set up on a remote does not crash but to have an always stable version
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks - I use forks when I want to link the application development with multiple users online and I 
+do not want or can not change the source code
+
+Clones - When I develop my own application with multiple developers
